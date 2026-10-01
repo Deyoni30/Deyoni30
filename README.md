@@ -2,7 +2,7 @@
 
 **Développeur Full-Stack & Intégrateur IA**
 
-Je construis des applications web complète avec Django & Django REST Framework, et j'intégrer l'IA pour résoudre de vrai problème métier - pas comme gadget, mais comme moteur de valeur réelle.
+Je construis des applications web complète avec Django & Django REST Framework, et j'intègre l'IA pour résoudre de vrai problème métier - pas comme gadget, mais comme moteur de valeur réelle.
 
 Formateur en technologies chez **Novalingua Bafoussam**.
 
@@ -52,12 +52,12 @@ Plateforme d'offre d'emplois adapté au marché local permettant la mise en rela
 
 ## 🛠 Stack technique
 
-**Backend :** Python - Django - Django REST Framework 
-**Base de données :** PostgreSQL - MERISE/MLDR
-**IA & API :** Groq API - Frankfurter API
-**Frontend :** JavaScript - HTML/CSS - Next.js
-**Auth & Sécurité :** JWT
-**Outils :** Git - GitHub - VS Code - pgAdmin
+- **Backend :** Python - Django - Django REST Framework 
+- **Base de données :** PostgreSQL - MERISE/MLDR
+- **IA & API :** Groq API - Frankfurter API
+- **Frontend :** JavaScript - HTML/CSS - Next.js
+- **Auth & Sécurité :** JWT
+- **Outils :** Git - GitHub - VS Code - pgAdmin
 
 ---
 
